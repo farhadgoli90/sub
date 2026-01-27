@@ -1,0 +1,5 @@
+vless://white-plus@127.0.0.1:443?security=none#🟢 آپدیت : 7 بهمن➖ساعت ➖ 16:00
+vless://white-plus@127.0.0.1:443?security=none#تلگرام 📌 @white_plus_vpn
+vless://white-plus@127.0.0.1:443?security=none#─────────────────────────────
+vless://5a9a33eb-546c-4ffa-aadc-1c75b3ac084b@vy1.sangar.net:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vy1.sangar.net#سرور 1 @white_plus_vpn
+vless://be695a55-8ac5-40a1-92c2-cc864651360a@94.141.123.12:558?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b8f669536c45c2b#سرور 2 @white_plus_vpn

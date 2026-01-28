@@ -6,3 +6,6 @@ vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:2082?pa
 vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=uk.ip4zone.ir&type=httpupgrade#irancell ✔️
 vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:2082?type=httpupgrade&host=uk.ip4zone.ir&path=/?ed%3D2082&security=none#ALL✔️
 vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:2082?type=httpupgrade&host=de.ip4tools.ir&path=/?ed%3D2082&security=none#irancell ✔️
+vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:443?type=ws&host=uk.ip4zone.ir&path=/page&security=tls&fp=chrome&sni=uk.ip4zone.ir&alpn=h3,h2,http/1.1#🇬🇧 England - MCI
+vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:443?type=ws&host=pl.ip4zone.ir&path=/page&security=tls&fp=chrome&sni=pl.ip4zone.ir&alpn=h2,http/1.1#🇵🇱 Poland - All
+vless://b97b9c77-fdea-4ebf-9220-3be1a12aa0a5@itzcdn.fastdownloadhubs.sbs:443?type=ws&host=fn.ip4store.ir&path=/page&security=tls&fp=chrome&sni=fn.ip4store.ir&alpn=h3,h2,http/1.1#% Finland - Irancell

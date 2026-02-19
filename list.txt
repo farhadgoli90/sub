@@ -1,9 +1,19 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#🟢 آپدیت : 24 بهمن➖ساعت ➖ 09:00
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#تلگرام 📌 white_plus_vpn@
+ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ%3D%3D@45.77.253.107:80#🟢 آپدیت : 30 بهمن➖ساعت ➖ 21:00
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#تلگرام 📌 white_plus_vpn@
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#France (1) 🇫🇷
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#France 🇫🇷(3)
-vless://b4819c49-6c7e-4b57-9b9b-c73031e1de11@pq-albania1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#UAE 🇦🇪
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#Poland 🇵🇱
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#UAE 🇦🇪(1)
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#Poland 🇵🇱(1)
 trojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#France 🇫🇷 (2)
-vmess://eyJhZGQiOiIxNzIuMjMzLjIyOS45MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0MTAyIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=USA 🇺🇸(3)
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@217.13.104.134:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&sid=3f200574d011010f#Hungary 🇭🇺
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#France 🇫🇷(4)
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#France 🇫🇷(5)
+vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?security=reality&encryption=none&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=63d80d5199a2bc#Germany 🇩🇪(1)
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#UAE 🇦🇪(2)
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v1.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc#Mexico 🇲🇽
+vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@212.192.246.57:2087?security=reality&encryption=none&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e004#Kenya 🇰🇪
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#Poland 🇵🇱(2)
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.18.0.144:443?path=%2F129.146.46.164%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=joinProxyVPN11.afrcloud22.mmv.kr#USA 🇺🇸(1)
+ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg%3D%3D@64.176.215.70:80#USA 🇺🇸(2)
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#UAE 🇦🇪(3)
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#France 🇫🇷(6)

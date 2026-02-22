@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ%3D%3D@45.77.253.107:80#🟢 آپدیت : 30 بهمن➖ساعت ➖ 21:00
+
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🟢 آپدیت : 30 بهمن➖ساعت ➖ 21:00
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#تلگرام 📌 white_plus_vpn@
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#France (1) 🇫🇷
